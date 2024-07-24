@@ -30,7 +30,7 @@ public class Ejercici06 {
         System.out.println("El área del cuadrado es: " + areaCuadrado + ", el perimetro es: " + perimetroCuadrado);
         System.out.println("El área del triangulo es: " + areaTriangulo + ", el perimetro es: " + perimetroTriangulo);
         System.out.println("El área del triangulo es: " + areaRectangulo + ", el perimetro es: " + perimetroRectangulo);
-
+ 
 
     }
 }
